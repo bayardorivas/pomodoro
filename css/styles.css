@@ -5,9 +5,10 @@ body{
 }
 
 #App{
+    display: block;
     background-color: grey ;
     width: 500px;
-    margin: 0 auto;
+    margin: 200px auto;
     border: solid 1px white;
     padding: 20px;
 }
@@ -57,3 +58,4 @@ button, input[type="submit"] {
     padding: 5px;
     align-items: center;
 }
+
